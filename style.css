@@ -1,0 +1,10 @@
+div#userProfile>p>img {
+    display: initial;
+    border-radius: 50%;
+}
+div#userProfile>P {
+    font-size: 32px;
+}
+div#userProfile {
+    text-align: center;
+}
